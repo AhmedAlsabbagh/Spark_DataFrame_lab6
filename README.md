@@ -1,1 +1,1 @@
-# Spark_DataFrame_lab6
+Practicals - (DataFrames)
